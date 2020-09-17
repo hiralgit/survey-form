@@ -1,0 +1,10 @@
+.landing-page-container{
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.landing-page-container h3{
+    margin-bottom:2rem;
+}

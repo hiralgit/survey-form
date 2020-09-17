@@ -1,0 +1,14 @@
+.questions-container{
+    height:400px;
+    width:600px;
+    overflow:hidden;
+}
+
+.questions-container .card.text-center{
+    height:100%;
+    width:100%;
+}
+
+.questions-container .questions-wrapper{
+    display:flex;
+}
